@@ -1,0 +1,61 @@
+.trip-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    height: 250px;
+    margin-top: 30px;
+    background-color: yellow;
+    
+}
+.tripbox-left {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    height: 250px;
+
+}
+.choose-box {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.choosep {
+    height: 50px;
+    width: 50px;
+}
+.choosew {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+.choose-d {
+    font-size: 12px;
+    color: rgba(94, 98, 130, 1);
+    margin-bottom: 10px;
+}
+.choose-lo {
+    font-size: 11px;
+    color: rgba(94, 98, 130, 1);
+
+}
+.tripbox-right {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 260px;
+    
+
+}
+.trip-rome {
+    height: 400px;
+    width: 400px;
+    margin-top: 0px;
+}
